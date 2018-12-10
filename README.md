@@ -18,3 +18,7 @@ Python Modules required:
 Pass two wav files into the script:
 * An audio clip of the noise signal
 * An audio clip of the audio recording with the additive noise signal included.
+
+# Example of Filtered Signal
+![alt text](https://github.com/tennisonliu/noise_reduction/blob/master/visualisation/output_8_2.png)
+![alt text](https://github.com/tennisonliu/noise_reduction/blob/master/visualisation/output_8_3.png)
